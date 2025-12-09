@@ -1,5 +1,5 @@
-streamlit==1.52.1
-numpy==2.2.6
-requests==2.32.5
-urllib3==2.6.0
-opencv-python==4.12.0.88
+streamlit
+numpy
+requests
+urllib3
+opencv-python-headless
